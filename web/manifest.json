@@ -1,6 +1,6 @@
 {
-    "name": "init",
-    "short_name": "init",
+    "name": "Todo",
+    "short_name": "todo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

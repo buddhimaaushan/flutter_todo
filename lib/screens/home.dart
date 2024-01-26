@@ -62,9 +62,10 @@ class _HomeState extends State<Home> {
             height: 30,
             child: ClipRRect(
                 borderRadius: BorderRadius.circular(100),
-                child: Image.network(
-                    fit: BoxFit.cover,
-                    "https://m.media-amazon.com/images/M/MV5BNWYwNjMxNzUtYmUzOS00MWE4LTgyM2YtN2JhMmM3MTk5NzUwXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_.jpg")),
+                child: Image.asset(
+                  fit: BoxFit.cover,
+                  "assets/icon/icon.png",
+                )),
           )
         ]),
       ),

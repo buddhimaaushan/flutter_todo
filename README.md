@@ -1,4 +1,4 @@
-# init
+# Todo app by Aushan
 
 A new Flutter project.
 
